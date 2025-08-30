@@ -13,6 +13,7 @@ Showcase your skills by using the URL below and adding the tech stack icons you 
 
 ```md
 ![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2Fskills-icons.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2Fskills-icons?ref=badge_shield)
 ```
 
 ![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)
@@ -431,3 +432,6 @@ This project is deployed and hosted using [Vercel](https://vercel.com)
 ### License 📝
 
 This project is licensed under [MIT License](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2Fskills-icons.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2Fskills-icons?ref=badge_large)
